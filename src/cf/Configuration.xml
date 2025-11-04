@@ -323,6 +323,7 @@
 			<Subsystem>ПодключаемыеОтчетыИОбработки</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<Subsystem>ТехнологияСервиса</Subsystem>
+			<Subsystem>HomeWork17</Subsystem>
 			<StyleItem>АктуальнаяПодпискаЦвет</StyleItem>
 			<StyleItem>ВажнаяНадписьШрифт</StyleItem>
 			<StyleItem>ВидДняПроизводственногоКалендаряВоскресеньеЦвет</StyleItem>
@@ -2027,6 +2028,7 @@
 			<CommonModule>ЭлектроннаяПодписьСлужебныйЛокализация</CommonModule>
 			<CommonModule>ЭлектроннаяПодписьСлужебныйПовтИсп</CommonModule>
 			<CommonModule>ЯндексПереводчик</CommonModule>
+			<CommonModule>HomeWork17Сервер</CommonModule>
 			<CommonAttribute>КомментарийЯзык1</CommonAttribute>
 			<CommonAttribute>КомментарийЯзык2</CommonAttribute>
 			<CommonAttribute>НаименованиеЯзык1</CommonAttribute>
@@ -3113,6 +3115,7 @@
 			<Document>ТелефонныйЗвонок</Document>
 			<Document>ЭлектронноеПисьмоВходящее</Document>
 			<Document>ЭлектронноеПисьмоИсходящее</Document>
+			<Document>HomeWork17Документ</Document>
 			<Sequence>_ДемоДвижениеТоваров</Sequence>
 			<DocumentJournal>_ДемоЖурналВсехДокументов</DocumentJournal>
 			<DocumentJournal>_ДемоСкладскиеДокументы</DocumentJournal>
@@ -3435,6 +3438,7 @@
 			<DataProcessor>УправлениеСистемойВзаимодействия</DataProcessor>
 			<DataProcessor>УстановкаОбновлений</DataProcessor>
 			<DataProcessor>ФайлыБТС</DataProcessor>
+			<DataProcessor>HomeWork17Обработка</DataProcessor>
 			<InformationRegister>_ДемоГрафикиРаботы</InformationRegister>
 			<InformationRegister>_ДемоЗаведующиеМестамиХранения</InformationRegister>
 			<InformationRegister>_ДемоЗагружаемыеПоступленияОтЮридическихЛиц</InformationRegister>
